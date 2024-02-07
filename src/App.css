@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Poppins:wght@300;400;500;600;800;900&display=swap');
+
+.header1 {
+  background-color: #EEEDEB;
+
+}
+.content{
+  background-color: #cccccd;
+}
+.footer1 {
+    height: 50px;
+    background-color: #cccccd;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .footer2{
+    border-top: 2px solid #939393;
+    width: 80%;
+  }
+  
+  .footer1 p {
+    padding-top: 14px;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-size: 12px;
+  }
+  .LogoImage img {
+    height: 64px;
+    margin-top: 7px;
+  }
+
+  .imagecontainer{
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .imagecontainer img{
+    height: 150px;
+    mix-blend-mode: color-burn;
+  }
+
+  .loginfield{
+    background-color: #cccccd;
+  }
